@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/cart/test.jsp=UTF-8
+encoding//WebContent/css/ReviewList.css=UTF-8
+encoding//WebContent/css/admindetail.css=UTF-8
+encoding//WebContent/css/detail.css=UTF-8
+encoding//WebContent/css/order.css=UTF-8
+encoding//WebContent/dressDetails/dressDetails.jsp=UTF-8
+encoding//src/com/human/controller/MemberController.java=UTF-8
+encoding//src/com/human/dao/MemberDao.java=UTF-8
+encoding//src/com/human/util/DBConn.java=UTF-8
